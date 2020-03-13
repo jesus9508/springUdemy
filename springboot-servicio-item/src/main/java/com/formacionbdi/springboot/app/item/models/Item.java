@@ -1,6 +1,6 @@
 package com.formacionbdi.springboot.app.item.models;
 
-import com.formacionbdi.springboot.app.item.models.Producto;
+import com.formacionbdi.sprongboot.app.commons.springbootserviciocommons.models.entity.Producto;
 
 public class Item {
 
